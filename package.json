@@ -1,8 +1,18 @@
 {
-  "name": "simple-shuffle",
-  "version": "0.0.2",
+  "name": "simple-array-shuffler",
+  "version": "0.0.3",
   "description": "Extremely light array shuffler",
   "main": "dist/index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caldwell619/simple-shuffle"
+  },
+  "bugs": {
+    "url": "https://github.com/caldwell619/simple-shuffle/issues"
+  },
   "scripts": {
     "lint": "eslint src/",
     "start": "webpack-dev-server --config webpack.dev.js",
