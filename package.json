@@ -1,11 +1,8 @@
 {
   "name": "simple-array-shuffler",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Extremely light array shuffler",
-  "main": "dist/index.js",
-  "files": [
-    "index.js"
-  ],
+  "main": "dist/main.bundle.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/caldwell619/simple-shuffle"
