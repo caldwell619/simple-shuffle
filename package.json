@@ -1,0 +1,15 @@
+{
+  "name": "simple-shuffle",
+  "version": "0.0.1",
+  "description": "Extemely light array shuffler",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "shuffle",
+    "array"
+  ],
+  "author": "caldwell619",
+  "license": "ISC"
+}
